@@ -8,19 +8,19 @@
     font-family: sans-serif;
   }
   
-  body:hover, body:hover .nav-links li a{
+  /* body:hover, body:hover .nav-links li a{
     background: black;
     color: white;
-  }
+  } */
   
-  body:hover .hero-text span{
+  /* body:hover .hero-text span{
     background: rgb(255, 230, 230);
     color: black;
-  }
+  } */
   
-  body:hover .hero-image img{
+  /* body:hover .hero-image img{
     box-shadow: 0 0 15px 5px rgb(41, 39, 39);
-  }
+  } */
   
   .navbar{
     display: flex;
