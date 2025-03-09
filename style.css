@@ -116,7 +116,7 @@
   }
   
   @media only screen and (max-width: 992px){
-    .nav-links, .dn{
+    .nav-links{
       display: none;
     }
     
